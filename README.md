@@ -1,4 +1,4 @@
 # Fun
 Hi, This is Mridula.
 <br>
-I'm here to make new projects.
+This is my first Git Repository.
